@@ -33,7 +33,7 @@ Just keep in mind that **Hokus will be much more** in the future.
 
 ## Getting Started
 
-*To run on Linux or Mac, see _Running On Linux or Mac_ topic below.*
+*To run on Linux or Mac, see topic below.*
 
 * [Download the binaries - Windows 10 (x64)](https://github.com/julianoappelklein/hokus/releases). 
 * Install by running the executable file _\(hokus-cms-setup-0.2.1-winx64.exe\)_
