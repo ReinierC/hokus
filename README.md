@@ -1,3 +1,5 @@
+<img src="/src/img/logo-dark-fullname.svg" alt="Hokus" width="200"/>
+
 # Hokus CMS
 
 A CMS for Hugo to run on your computer. **No hosting fees are required**.
