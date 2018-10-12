@@ -21,7 +21,7 @@ Take a look at our features and understand why Hokus is a great tool for your Hu
 * **MIT license.** Copy, edit, share, redistribute.
 * **Build User Interfaces Easily.** Just create a small configuration file (JSON, TOML and YAML are supported).
 
-*Some of the features may be under development.*
+*Some features may be under development.*
 
 ## Current State
 
@@ -33,7 +33,7 @@ Just keep in mind that **Hokus will be much more** in the future.
 
 ## Getting Started
 
-*To run on Linux or Mac, see next topic below.*
+*To run on Linux or Mac, see _Running On Linux or Mac_ topic below.*
 
 * [Download the binaries - Windows 10 (x64)](https://github.com/julianoappelklein/hokus/releases). 
 * Install by running the executable file _\(hokus-cms-setup-0.2.1-winx64.exe\)_
