@@ -191,7 +191,7 @@ The desired workflow for Hokus is:
 * Someone installs Hokus and opens it.
 * A list of existent Hugo website templates ("Hokus-ready") are listed for selection.
 * The user select the desired template and the website is downloaded.
-* Right away, the user starts to create posts.
+* Right from the start, the user can create posts without hassle.
 * The user selects a way to version the content and a place to publish it, just providing minimal configurations.
 
 ## Development Stack
